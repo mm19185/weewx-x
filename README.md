@@ -53,5 +53,21 @@ Minimum time in seconds between posts (e.g., 3600 = every 1 hours).
 
 ## 🖼 Example Tweet
 
-My Station: 🌡 19.6°C; 💧 72%; 🌬 0.0 km/h; 🌀 1023 mbar
+My Station: 🌡 Temperature: 19.6°C; 💧 Humidity: 72%; 🌬 Wind: 0.0 km/h; 🌀 Pressure: 1023 mbar
 Attached image(s): station snapshot, radar image, satellite image (or any other graphics within the confines of X's API)
+
+## 🚀 Roadmap
+
+ Add richer template variables (e.g. emoji wind arrows)
+
+ Package as a WeeWX extension bundle (.zip installer)
+
+ Create a WeeWX service that can tweet on a separate/independent schedule
+
+🤝 Contributing
+ Issues and pull requests are welcome!
+ If you use this extension at your station, please share a screenshot of your tweets!
+ 
+<img width="594" height="564" alt="Screenshot 2025-09-04 at 8 11 41 PM" src="https://github.com/user-attachments/assets/2c796e9d-2099-41ff-8c45-7f4d640d0c56" />
+
+ 

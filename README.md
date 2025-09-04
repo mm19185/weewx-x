@@ -1,4 +1,5 @@
-# WeeWX X/Twitter Poster with Image Support
+# WeeWX-X
+Twitter Poster with Image Support
 
 This is a WeeWX extension that posts current weather conditions directly to X (formerly Twitter).  
 It supports custom text templates, automatic retries, and attaching one or more images (local paths or URLs).  
@@ -24,7 +25,7 @@ Perfect for sharing live weather snapshots, radar images, or forecast graphics a
 
    ```ini
    [StdRESTful]
-       [[TwitterX]]
+       [[Weewx-x]]
            app_key = YOUR_APP_KEY
            app_key_secret = YOUR_APP_KEY_SECRET
            oauth_token = YOUR_OAUTH_TOKEN

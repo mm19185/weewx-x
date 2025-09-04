@@ -72,6 +72,10 @@ Attached image(s): station snapshot, radar image, satellite image (or any other 
 ## 🙌 Thank You
 
  Thank you to Matthew Wall whose extension served as the spring board for this 'vibe coding' project. https://github.com/matthewwall/weewx-twitter
+
+## 🙏🥺 ... 😅 Apologies
+
+ As you can probably tell I am a total github newb, at least in terms of posting anything here. I still feel like it's a miracle that this works at all for me. Please let me know if I can help, if something isn't working right or if I've missed something. I'll be sure to add to this as need be.
  
  
 <img width="594" height="564" alt="Screenshot 2025-09-04 at 8 11 41 PM" src="https://github.com/user-attachments/assets/2c796e9d-2099-41ff-8c45-7f4d640d0c56" />

@@ -33,3 +33,7 @@ Perfect for sharing live weather snapshots, radar images, or forecast graphics a
            format = {station}: 🌡 {outTemp:%.1f}°C; 💧 {outHumidity:%.1f}%; 🌬 {windSpeed:%.1f} km/h
            image_url = /home/weewx/current.png, https://example.com/radar.png
            post_interval = 3600
+3. Restart WeeWX
+   ```ini
+   sudo systemctl restart weewx
+

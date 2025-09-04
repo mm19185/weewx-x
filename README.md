@@ -64,9 +64,15 @@ Attached image(s): station snapshot, radar image, satellite image (or any other 
 
  Create a WeeWX service that can tweet on a separate/independent schedule
 
-🤝 Contributing
- Issues and pull requests are welcome!
+## 🤝 Contributing
+ 
+ Issues and pull requests are welcome.
  If you use this extension at your station, please share a screenshot of your tweets!
+
+## 🙌 Thank You
+
+ Thank you to Matthew Wall whose extension served as the spring board for this 'vibe coding' project. https://github.com/matthewwall/weewx-twitter
+ 
  
 <img width="594" height="564" alt="Screenshot 2025-09-04 at 8 11 41 PM" src="https://github.com/user-attachments/assets/2c796e9d-2099-41ff-8c45-7f4d640d0c56" />
 

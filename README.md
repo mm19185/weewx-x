@@ -13,7 +13,7 @@ Perfect for sharing live weather snapshots, radar images, or forecast graphics a
 - ✅ Post formatted WeeWX data directly to X/Twitter  
 - ✅ Support for local or remote images (auto-downloaded)  
 - ✅ Automatic retries on connection/auth failures  
-- ✅ Configurable via `weewx.conf` (`[StdRESTful]` → `[[TwitterX]]`)  
+- ✅ Configurable via `weewx.conf` (`[StdRESTful]` → `[[WeeWX-X]]`)  
 - ✅ Compatible with X API v1.1 media upload  
 
 ---
@@ -25,7 +25,7 @@ Perfect for sharing live weather snapshots, radar images, or forecast graphics a
 
    ```ini
    [StdRESTful]
-       [[Weewx-x]]
+       [[WeeWX-X]]
            app_key = YOUR_APP_KEY
            app_key_secret = YOUR_APP_KEY_SECRET
            oauth_token = YOUR_OAUTH_TOKEN

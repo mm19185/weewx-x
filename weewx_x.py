@@ -492,11 +492,11 @@ def build_and_post_tweet(record, config, test_mode=False):
     else:
         pressure_line = "❓ Pressure: N/A"
 
-    # === UV & Solar (Atlantic Canada calibrated) ===
+    # === UV & Solar (calibrated) ===
     def solar_to_uv(solar_wpm2):
         if solar_wpm2 is None or solar_wpm2 < 10:
             return 0
-        return max(0, min(round(solar_wpm2 / 95), 9))  # Based on your 474 W/m² ≈ UV 5
+        return max(0, min(round(solar_wpm2 / 115.0), 10))  # Can change as required
 
     UV = solar_to_uv(radiation)
     uv_str = str(UV) if UV >= 1 else "0"

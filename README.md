@@ -61,6 +61,42 @@ This release transforms the weather poster from a WeeWX service extension into a
 
 ---
 
+## 🐦 Example Tweet
+
+🪟 Now—Partly cloudy and mild, light winds
+
+🌡️ Temp: 15.9°, Feels: 16.6°
+💧 Dewpoint: 13.4°, Humidity: 85%
+🌬️ Wind: E at 2km/h, Gust: 4km/h
+↔️ Pressure: 1020mb (steady)
+☁️ Cloud: 16%
+😎 UV: 0, 35W/m²
+
+🌅 7:20 AM, 🌇 6:43 PM
+🌕 Full
+
+ℹ️ https://awebsite.com
+
+--- 
+
+## 🐦 During precipitation events, when wind is calm, etc
+
+🪟 Now—Rain and mild, light winds
+
+🌡️ Temp: 15.9°, Feels: 16.6°
+💧 Dewpoint: 13.4°, Humidity: 85%
+🌬️ Wind: calm
+↔️ Pressure: 1020mb (steady)
+🌧️ Rain: 4.0mm/h, Total: 5mm, Cloud: 100%
+😎 UV: 0, 35W/m²
+
+🌅 7:20 AM, 🌇 6:43 PM
+🌕 Full
+
+ℹ️ https://awebsite.com
+
+---
+
 ## 📦 Migration Notes
 
 - Ensure **Python 3.9+** for `zoneinfo` timezone support.

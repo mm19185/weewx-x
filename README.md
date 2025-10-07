@@ -81,19 +81,19 @@ This release transforms the weather poster from a WeeWX service extension into a
 
 --- 
 
-## 🐦 During precipitation events, when wind is calm, etc
+## 🐦 During precipitation events, when wind is calm, pressure rising or falling, Moon phase change, etc
 
 🪟 Now—Rain and mild, light winds
 
 🌡️ Temp: 15.9°, Feels: 16.6°
 💧 Dewpoint: 13.4°, Humidity: 85%
 🌬️ Wind: calm
-↔️ Pressure: 1020mb (steady)
+📉 Pressure: 1020mb (falling)
 🌧️ Rain: 4.0mm/h, Total: 5mm, Cloud: 100%
 😎 UV: 0, 35W/m²
 
 🌅 7:20 AM, 🌇 6:43 PM
-🌕 Full
+🌒 Wax Cres
 
 ℹ️ https://awebsite.com
 

@@ -77,6 +77,8 @@ This release transforms the weather poster from a WeeWX service extension into a
 
 ℹ️ https://awebsite.com
 
+<img width="593" height="778" alt="Screenshot 2025-10-07 at 11 03 11 AM" src="https://github.com/user-attachments/assets/3d52ce51-9482-44b9-9555-76bf4432ba3c" />
+
 --- 
 
 ## 🐦 During precipitation events, when wind is calm, etc

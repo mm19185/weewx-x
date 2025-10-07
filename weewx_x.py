@@ -3,7 +3,7 @@
 Standalone Twitter/X Current Conditions Poster
 Posts at specified hours (auto-converted to UTC)
 Schedule times: 1am, 5am, 9am, 11am, 1pm, 3pm, 5pm, 7pm, 9pm
-With **Open-Meteo snow support**, **smart caching**, and **Atlantic UV calibration**
+With **Open-Meteo snow support**, **smart caching**, and **UV calibration**
 """
 
 import os
